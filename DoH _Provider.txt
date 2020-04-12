@@ -1,7 +1,6 @@
 # Questa lista include tutti i provider DOH pubblici.
 # La lista è basata su https://github.com/curl/curl/wiki/DNS-over-HTTPS
 # L'implementazione di questa lista dovrebbe bloccare tutte le richieste DNS via HTTPS, così da forzare gli utenti ad utilizzare il server DNS specificato.
-# La lista è utile in caso di abilitazione manuale di DoH, i browser dovrebbero disabilitarla automaticamente sulle reti con PiHole.
 dns.google
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
