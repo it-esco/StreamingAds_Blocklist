@@ -27,3 +27,22 @@ dateddeed.com
 beshucklean.com
 hetaint.com
 exportspring.com
+# Ads from iol
+pixel.rubiconproject.com
+ads.pubmatic.com
+aaxads.com
+#to test
+evnt.iol.it
+er.bemail.it
+ats.rlcdn.com
+spl.zeotap.com
+aa.agkn.com
+rumcdn.geoedge.be
+i.plug.it
+www.iolam.it
+secure-ds.serving-sys.com
+cdn.insurads.com
+onesignal.com
+iolam.it
+c.amazon-adsystem.com
+# ads virgilio iol libero mail
