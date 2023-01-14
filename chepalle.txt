@@ -49,3 +49,6 @@ c.amazon-adsystem.com
 remoldsephah.com
 therecode247.com
 topnewsfeed.com
+# mediaset play
+7cf6f.v.fwmrm.net
+fwmrm.net
